@@ -1,0 +1,34 @@
+<head>
+	<title>Pague com Bitcoin</title>
+
+</head>
+<body>
+	
+	{{> main}}
+	
+	<footer>
+		technology by coinspot.io
+	</footer>
+</body>
+
+
+<template name="pay">
+	<div id="transaction-info">
+		<p>
+			<span>BITCOIN</span> 
+			0.002903
+		</p>
+		<p>
+			<span>ENDEREÇO</span>
+			<a href="bitcoin:13F2t8gvL4oucp8AMuQvK5fPVph6PDVdH6?amount=0.002903">13F2t8gvL4oucp8AMuQvK5fPVph6PDVdH6</a>
+		</p>
+	</div>
+
+	<div id="qr-code">
+		<img src="https://paguecombitcoin.com.br/qr/13F2t8gvL4oucp8AMuQvK5fPVph6PDVdH6.png">
+	</div>
+</template>
+
+<template name="payment-done">
+	
+</template>

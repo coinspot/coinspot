@@ -1,0 +1,16 @@
+{
+	"api_key": "1AuRN1Q8sjCs4cJbbDzbLmGNUGjpDnHFJN",
+	"currency": "BRL",
+	"amount": 25.9
+}
+
+{
+	"transaction_id": "13F2t8gvL4oucp8AMuQvK5fPVph6PDVdH6",
+	"expitarion_date": 1234976432,
+	"bitcoin": {
+		"address": "16tYhQANEsYtAWke7YsbWeCSc1BkKGJKQe",
+		"qr_code": "https://paguecombitcoin.com.br/qr/13F2t8gvL4oucp8AMuQvK5fPVph6PDVdH6.png",
+		"amount": 0.0001804
+	},
+	"redirect_url": "https://paguecombitcoin.com.br/pay/13F2t8gvL4oucp8AMuQvK5fPVph6PDVdH6"
+}
